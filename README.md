@@ -50,21 +50,6 @@
 
 <br/>
 
-<!-- Habilidades con barras de progreso animadas como en tu portafolio -->
-<h2><b>Habilidades</b></h2>
-
-<div>
-  <h3>React</h3>
-  <img src="https://progress-bar.dev/90/?width=800&color=FFC145" alt="React 90%" />
-  
-  <h3>Tailwind</h3>
-  <img src="https://progress-bar.dev/80/?width=800&color=FF6B6B" alt="Tailwind 80%" />
-  
-  <h3>Figma</h3>
-  <img src="https://progress-bar.dev/70/?width=800&color=4F51B7" alt="Figma 70%" />
-</div>
-
-<br/>
 
 <!-- Sección de servicios con tarjetas coloridas -->
 <h2><b>Servicios</b></h2>
@@ -106,15 +91,15 @@
 <h2><b>GitHub Stats</b></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSERNAME&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=2B2D42&title_color=FF6B6B&icon_color=FFC145" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSERNAME&theme=react&hide_border=true&background=2B2D42&ring=FFC145&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bornacelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=2B2D42&title_color=FF6B6B&icon_color=FFC145" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bornacelli&theme=react&hide_border=true&background=2B2D42&ring=FFC145&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Contador de visitas -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUUSERNAME&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bornacelli&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
