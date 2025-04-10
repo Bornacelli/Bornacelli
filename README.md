@@ -17,9 +17,9 @@
   Soy Desarrolladora frontend enfocada en sitios web responsivos y aplicaciones interactivas. Trabajo con React, con diversas librerías de estilos y diseño UI/UX en Figma para crear experiencias atractivas y funcionales.
   
   <div>
-    <a href="HdV.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Descargar_CV-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
-    </a>
+    <a href="https://portafolio-kappa-green.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_PORTAFOLIO-FF6B6B?style=for-the-badge" alt="Ver Portafolio" />
+  </a>
   </div>
   
   </div>
