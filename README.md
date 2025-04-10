@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-   <span style="color: #FF6B6B">Sobre Mí</span></h1>
+   <span style="color: #FF6B6B"></span></h1>
 </div>
 
 <!-- Sección About Me con diseño de tarjeta -->
