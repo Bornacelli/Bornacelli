@@ -9,7 +9,6 @@
 
 <!-- Sección About Me con diseño de tarjeta -->
 <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://i.imgur.com/DRLJroE.gif" />
   
   <div style="background-color: #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); width: 60%;">
   
@@ -18,7 +17,7 @@
   Soy Desarrolladora frontend enfocada en sitios web responsivos y aplicaciones interactivas. Trabajo con React, con diversas librerías de estilos y diseño UI/UX en Figma para crear experiencias atractivas y funcionales.
   
   <div>
-    <a href="tu_cv.pdf" target="_blank">
+    <a href="HdV.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Descargar_CV-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
     </a>
   </div>
@@ -58,17 +57,17 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img width="100%" src="https://raw.githubusercontent.com/gist/username/gistid/raw/ui-ux.svg" alt="UI/UX Design" /><br>
+       <br>
         <h3>Diseño UI/UX</h3>
         <p>Diseño de interfaces atractivas y funcionales en Figma, enfocadas en la experiencia del usuario.</p>
       </td>
       <td align="center" width="33%">
-        <img width="100%" src="https://raw.githubusercontent.com/gist/username/gistid/raw/frontend.svg" alt="Frontend Development" /><br>
+        <br>
         <h3>Desarrollo Frontend</h3>
         <p>Creación de sitios web responsivos y aplicaciones interactivas utilizando React, Vite y diferentes librerías de estilos.</p>
       </td>
       <td align="center" width="33%">
-        <img width="100%" src="https://raw.githubusercontent.com/gist/username/gistid/raw/optimization.svg" alt="Web Optimization" /><br>
+        <br>
         <h3>Optimización Web</h3>
         <p>Mejora del rendimiento, accesibilidad y SEO técnico para lograr una experiencia fluida y eficiente.</p>
       </td>
