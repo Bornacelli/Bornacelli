@@ -1,6 +1,6 @@
 <!-- Encabezado con estilo y animación -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=2B2D42&center=true&vCenter=true&random=false&width=500&lines=Bienvenidos+a+mi+perfil;Desarrollador+Frontend;UI%2FUX+Designer;React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=2B2D42&center=true&vCenter=true&random=false&width=500&lines=Bienvenidos+a+mi+perfil;Desarrollador+Web;UI%2FUX+Designer;React+Enthusiast;Laravel+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="left">
@@ -12,9 +12,9 @@
   
   <div style="background-color: #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); width: 60%;">
   
-  ### Desarrollador Frontend
+  ### Desarrollador Web
 
-  Soy Desarrolladora frontend enfocada en sitios web responsivos y aplicaciones interactivas. Trabajo con React, con diversas librerías de estilos y diseño UI/UX en Figma para crear experiencias atractivas y funcionales.
+ Soy Desarrolladora Web con experiencia en sitios y aplicaciones responsivas, enfocadas en una óptima experiencia de usuario y rendimiento. Trabajo principalmente con React para el frontend y Laravel para APIs y lógica backend. También manejo bases de datos MySQL, integración de APIs, diseño UI/UX en Figma y estilos con Tailwind CSS.
   
   <div>
     <a href="https://portafolio-kappa-green.vercel.app/" target="_blank">
@@ -32,11 +32,11 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-%2B3-4F51B7?style=for-the-badge&logo=fire&logoColor=white" alt="Proyectos" /><br>
+        <img src="https://img.shields.io/badge/-%2B5-4F51B7?style=for-the-badge&logo=fire&logoColor=white" alt="Proyectos" /><br>
         <strong>Proyectos Personales</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-En_progreso-FFC145?style=for-the-badge&logo=briefcase&logoColor=black" alt="Experiencia" /><br>
+        <img src="https://img.shields.io/badge/-6_Meses-FFC145?style=for-the-badge&logo=briefcase&logoColor=black" alt="Experiencia" /><br>
         <strong>Experiencia Profesional</strong>
       </td>
       <td align="center">
