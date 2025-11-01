@@ -64,12 +64,12 @@
       <td align="center" width="33%">
         <br>
         <h3>Desarrollo Frontend</h3>
-        <p>Creación de sitios web responsivos y aplicaciones interactivas utilizando React, Vite y diferentes librerías de estilos.</p>
+        <p>Creación de sitios web responsivos y aplicaciones interactivas utilizando React, Vite y librerías modernas de estilos.</p>
       </td>
       <td align="center" width="33%">
         <br>
-        <h3>Optimización Web</h3>
-        <p>Mejora del rendimiento, accesibilidad y SEO técnico para lograr una experiencia fluida y eficiente.</p>
+        <h3>Desarrollo Backend</h3>
+        <p>Implementación de APIs REST y lógica de servidor con Laravel y MySQL, garantizando seguridad, escalabilidad y buena estructura.</p>
       </td>
     </tr>
   </table>
@@ -81,7 +81,7 @@
 <h2><b>Tecnologías</b></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,figma,vite,git" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,figma,vite,git,laravel" alt="Technologies" />
 </div>
 
 <br/>
