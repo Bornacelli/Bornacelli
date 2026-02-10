@@ -36,7 +36,7 @@
         <strong>Proyectos Personales</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-6_Meses-FFC145?style=for-the-badge&logo=briefcase&logoColor=black" alt="Experiencia" /><br>
+        <img src="https://img.shields.io/badge/-1_Año-FFC145?style=for-the-badge&logo=briefcase&logoColor=black" alt="Experiencia" /><br>
         <strong>Experiencia Profesional</strong>
       </td>
       <td align="center">
